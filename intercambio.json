@@ -1,0 +1,180 @@
+{
+  "title": "MOBILIDADE ACADÊMICA — BIOMEDICINA UFPR",
+  "subtitle": "Intercâmbio nacional, internacional e estágio no exterior",
+  "intro": "Guia para estudantes de Biomedicina que desejam realizar mobilidade acadêmica, desde a busca por oportunidades até o retorno e o aproveitamento acadêmico.",
+  "quick": [
+    {
+      "label": "Mobilidade Internacional",
+      "target": "#internacional"
+    },
+    {
+      "label": "Mobilidade Nacional",
+      "target": "#nacional"
+    },
+    {
+      "label": "Estágio no Exterior",
+      "target": "#estagio"
+    },
+    {
+      "label": "Retorno e Equivalência",
+      "target": "#retorno"
+    }
+  ],
+  "flow": [
+    {
+      "step": "1",
+      "title": "Consultar oportunidades",
+      "text": "Acompanhe editais e chamadas oficiais do Escritório de Relações Internacionais (ERI)."
+    },
+    {
+      "step": "2",
+      "title": "Verificar requisitos",
+      "text": "Confira critérios acadêmicos, idiomas, documentação, destinos e condições do edital vigente."
+    },
+    {
+      "step": "3",
+      "title": "Candidatar-se",
+      "text": "Realize a inscrição pelo canal indicado na chamada e acompanhe todas as etapas da seleção."
+    },
+    {
+      "step": "4",
+      "title": "Obter aceite",
+      "text": "Após a seleção, providencie a carta ou documento de aceite da instituição de destino."
+    },
+    {
+      "step": "5",
+      "title": "Registrar a mobilidade",
+      "text": "Procure a Coordenação do Curso para o registro institucional da mobilidade junto ao ERI."
+    },
+    {
+      "step": "6",
+      "title": "Realizar a mobilidade",
+      "text": "Mantenha vínculo institucional e cumpra as exigências documentais durante o período fora da UFPR."
+    },
+    {
+      "step": "7",
+      "title": "Retornar à UFPR",
+      "text": "Providencie histórico/certificados e programas das disciplinas cursadas."
+    },
+    {
+      "step": "8",
+      "title": "Solicitar aproveitamento",
+      "text": "Peça equivalência ou cômputo de carga horária, conforme o caso, junto à Coordenação."
+    }
+  ],
+  "international": {
+    "title": "Mobilidade Acadêmica Internacional",
+    "text": "A mobilidade internacional permite cursar parte da graduação em instituição estrangeira. Requisitos, destinos, prazos e documentação variam conforme o edital.",
+    "links": [
+      {
+        "label": "Portal do ERI — UFPR",
+        "url": "https://internacional.ufpr.br/portal/"
+      },
+      {
+        "label": "Inscrições e chamadas",
+        "url": "https://internacional.ufpr.br/inscricao/"
+      },
+      {
+        "label": "Editais de mobilidade internacional",
+        "url": "https://internacional.ufpr.br/portal/editais-pmi/"
+      }
+    ]
+  },
+  "national": {
+    "title": "Mobilidade Acadêmica Nacional",
+    "text": "A mobilidade nacional possibilita cursar período acadêmico em instituições brasileiras participantes. Consulte sempre o edital vigente para requisitos, duração, vagas e procedimentos.",
+    "links": [
+      {
+        "label": "Portal do ERI — UFPR",
+        "url": "https://internacional.ufpr.br/portal/"
+      }
+    ]
+  },
+  "registration": {
+    "title": "Registro da Mobilidade",
+    "text": "Todo estudante de graduação que realizará mobilidade deve providenciar o registro institucional. A Coordenação do Curso encaminha o processo ao ERI conforme a documentação exigida.",
+    "documents": [
+      "Formulário de registro de mobilidade",
+      "Carta de aceite da instituição de destino",
+      "Edital ou documento oficial da oportunidade",
+      "Resultado da seleção",
+      "Anuência da Coordenação do Curso"
+    ],
+    "url": "https://internacional.ufpr.br/portal/registro_em_mobilidade/",
+    "arrival": [
+      "Declaração de chegada assinada pela instituição estrangeira",
+      "ou comprovante de matrícula emitido pela instituição anfitriã"
+    ]
+  },
+  "internship": {
+    "title": "Estágio no Exterior",
+    "text": "O estágio no exterior exige formalização acadêmica e documentação específica. A proposta deve ser analisada pela Coordenação/COE e seguir os procedimentos institucionais de estágio da UFPR.",
+    "checklist": [
+      "Documento solicitando o estágio",
+      "Carta de aceite do local de estágio",
+      "Plano de atividades com descrição, período e assinatura do responsável",
+      "Seguro internacional de vida/saúde e acidentes, conforme exigências aplicáveis",
+      "Aprovação da Coordenação/COE",
+      "Definição de professor orientador na UFPR"
+    ],
+    "note": "O plano de atividades não deve ser retroativo. Consulte a página de Estágios para os procedimentos e formulários atuais.",
+    "estagios_url": "https://rodrigotadm-sketch.github.io/Est-gio/"
+  },
+  "return": {
+    "title": "Retorno, equivalência e aproveitamento",
+    "text": "No retorno, disciplinas com correspondência curricular podem ser submetidas à análise de equivalência. Componentes sem correspondência direta podem ser analisados para cômputo acadêmico conforme as normas aplicáveis.",
+    "steps": [
+      "Obter histórico escolar ou certificado da instituição de destino",
+      "Obter programas/planos de ensino das disciplinas cursadas",
+      "Reunir carga horária, notas/conceitos e frequência",
+      "Procurar a Coordenação de Biomedicina",
+      "Protocolar a solicitação de equivalência ou aproveitamento",
+      "Aguardar análise acadêmica"
+    ],
+    "forms_url": "https://bio.ufpr.br/biomedicina/formularios/"
+  },
+  "planning": {
+    "title": "Planeje antes de se candidatar",
+    "text": "Antes de escolher disciplinas no destino, converse com a Coordenação sobre seu planejamento acadêmico. A orientação prévia ajuda na escolha, mas não substitui a análise formal de equivalência após a mobilidade."
+  },
+  "calls": {
+    "title": "Editais e chamadas vigentes",
+    "items": [
+      {
+        "program": "Mobilidade UFPR Internacional",
+        "departure": "Saída 2027/1",
+        "application": "27/03/2026 a 24/04/2026",
+        "status": "Seleção concluída / resultado publicado",
+        "url": "https://internacional.ufpr.br/portal/2026/07/01/edital-mobilidade-academica-internacional-resultado-final-saida-2027-1/"
+      }
+    ],
+    "official_url": "https://internacional.ufpr.br/inscricao/",
+    "note": "Esta área é editável no intercambio.json. Consulte sempre o ERI para novas chamadas."
+  },
+  "links": [
+    {
+      "label": "Escritório de Relações Internacionais — ERI",
+      "url": "https://internacional.ufpr.br/portal/"
+    },
+    {
+      "label": "Registro de Mobilidade",
+      "url": "https://internacional.ufpr.br/portal/registro_em_mobilidade/"
+    },
+    {
+      "label": "Inscrições / Chamadas",
+      "url": "https://internacional.ufpr.br/inscricao/"
+    },
+    {
+      "label": "Formulários — Biomedicina",
+      "url": "https://bio.ufpr.br/biomedicina/formularios/"
+    },
+    {
+      "label": "Estágios — Biomedicina",
+      "url": "https://rodrigotadm-sketch.github.io/Est-gio/"
+    }
+  ],
+  "contact": {
+    "course_email": "biomedicina@ufpr.br",
+    "eri_mobility_email": "mobilidade@ufpr.br"
+  }
+}
